@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ecommer.WebAssembly.props" />
+</Project>
